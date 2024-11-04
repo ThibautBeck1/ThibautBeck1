@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I study electrical engineering and computer science at KU Leuven.<br>
 
 
